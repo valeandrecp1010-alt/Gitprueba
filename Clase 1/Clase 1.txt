@@ -1,0 +1,9 @@
+9 de octubre de 2026 
+
+Introducción a variables y salida de datos
+
+En esta clase logramos comprender cómo almacenar información en variables y mostrarla por consola. Algunas de las implementaciones claves son
+
+Declaración de variables numéricas, uso de la función print() para combinar textos y variables en una sola salida formateada.
+
+Por último, realizamos algunos ejercicios básicos de presentación de datos donde se asignan valores a variables estáticas y se imprimen de forma amigable en pantalla.

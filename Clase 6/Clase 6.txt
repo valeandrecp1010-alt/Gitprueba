@@ -1,0 +1,13 @@
+11 de noviembre del 2026
+
+Tuvimos la oportunidad de Visualización de Datos con Matplotlib la cual logramos Representar gráficamente conjuntos de datos para facilitar su análisis visual.
+Algunas de sus implementaciones claves son las siguientes 
+
+Importación de la librería gráfica (import matplotlib.pyplot as plt).
+
+Creación de diferentes tipos de gráficos estadísticos y matemáticos:
+	Gráficos de líneas (plt.plot): Personalización de colores, estilos de línea, marcadores (marker), grosores (linewidth) y leyendas (plt.legend)
+	Gráficos de dispersión (plt.scatter): Útiles para mostrar correlaciones entre variables.
+	Gráficos de barras (plt.bar): Ideales para comparar categorías y frecuencias
+	Gráficos circulares o de pastel (plt.pie): Para mostrar proporciones porcentuales con etiquetas personalizadas (autopct).
+	Configuración de elementos estéticos: títulos (plt.title), etiquetas de ejes (plt.xlabel, plt.ylabel), límites de los ejes (plt.xlim, plt.ylim) y activación de cuadrículas (plt.grid).

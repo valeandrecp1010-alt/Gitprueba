@@ -1,0 +1,3 @@
+
+
+Vimos Numpy, pandas para trabajar en Python, arreglar filas y columnas, operaciones vectorizadas y funciones universales. Broadcasting: trabajar con matrices (operar entre formas distintas), máscaras booleanas, algunos temas de estadística.

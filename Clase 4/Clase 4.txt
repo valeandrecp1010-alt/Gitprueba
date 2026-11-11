@@ -1,0 +1,3 @@
+Lunes 4 de noviembre de 2026 
+
+Hoy en clase se vieron los últimos temas de clase: Matplotlib y pyplot que sirven para hacer las gráficas, diagrama de pastel, se explicó cómo va a hacer el proyecto final y el parcial con una base de datos que nos dio el profe en Python y nos dijo si la base de datos que nos mandó a consultar servía o no.

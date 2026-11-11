@@ -1,0 +1,10 @@
+9 de noviembre del 2026
+
+tuvimos la Introducción a la Librería NumPy (Arreglos y Computación Numérica)
+Logramos trabajar con arreglos numéricos eficientes y realizar operaciones matemáticas avanzadas, La cual tuvimos la siguiente implementaciones
+Importación de la librería (import numpy as np) y creación de arreglos (np.array)
+Generación de arreglos especiales: np.zeros() (ceros), np.ones() (unos), np.arange() (secuencias con saltos) y np.linspace() (divisiones equitativas)
+Generación de datos aleatorios con distribución normal (np.random.normal)
+Propiedades de los arreglos: .shape (forma/dimensiones), .ndim (dimensiones), .size (tamaño total) y .dtype (tipo de dato).
+Operaciones vectorizadas (suma, resta, multiplicación, potencias directas entre arreglos).
+Enmascaramiento (Masking): Filtrado de datos mediante condiciones booleanas (ej. filtrar notas mayores o iguales a 3.0) y funciones estadísticas como .mean() (promedio), np.median(), .std() (desviación estándar) y np.unique().

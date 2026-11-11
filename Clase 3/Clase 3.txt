@@ -1,0 +1,3 @@
+Miércoles 28 de noviembre de 2026
+
+Trabajamos con una base de datos encajando librerías (pandas), otra vez NumPy con lo de la máscara booleana para filtrar datos, vimos filas con loc e iloc, eliminar y saber si hay que duplicarlos o si hay datos, para hacer agrupamientos se aplica groupby.
